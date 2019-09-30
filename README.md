@@ -8,3 +8,4 @@ Use:
 - Redux;
 - Thunk;
 - React-router;
+- Redux-devtools;
